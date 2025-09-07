@@ -1,4 +1,4 @@
-# CEAI_PLN_2025_B4_Mendoza_Dante
+# CEIA_PLN_2025_B4_Mendoza_Dante
 
 Curso de Especialización en Inteligencia Artificial  
 Año 2025  
